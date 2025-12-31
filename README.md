@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👩🏻‍💻 I'm a <b>Data Scientist<b/><br>
 - 📍See my Tech Contributions on <a href="https://linkedin.com/in/www.linkedin.com/in/sehrish-noor-b08845270">LinkedIn</a><br>
-- ❤💛💚💙View my <a href="https://g.dev/sehrishnoor-ds">Google Developer Profile</a><br> <br>
+- ❤💛💚💙View my <a href="https://g.dev/sehrishnoor-ds">Google Developer Profile</a><br>
 - 📄See my AI content on <a href="https://medium.com/@sehrishnoor374">Medium</a><br>
 - 👩🏻‍💻All of my Projects are available on my  <a href="https://github.com/sehrishnoor-ds">my github</a><br>
 - 📪Reach me via sehrishnoor374@gmail.com<br>
