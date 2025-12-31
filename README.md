@@ -5,7 +5,7 @@
 - 📄See my AI content on <a href="https://medium.com/@sehrishnoor374">Medium</a><br>
 - 👩🏻‍💻All of my Projects are available on my  <a href="https://github.com/sehrishnoor-ds">my github</a><br>
 - 📪Reach me via sehrishnoor374@gmail.com<br>
-- ⚡Fun Fact <b>Music is the soundtrack to my success; it turns every challenge into a win<b/>
+- ⚡Fun Fact <b>Music is the soundtrack to my success; it turns every challenge into a win🎧🎶<b/>
 
 
 ## 🌐 Socials:
